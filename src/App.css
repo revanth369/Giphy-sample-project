@@ -1,0 +1,9 @@
+@import './styles/giphyItem.css';
+@import './styles/previewModal.css';
+@import './styles/searchGiphy.css';
+
+.App {
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+}
